@@ -1,3 +1,5 @@
+新项目移动到https://github.com/YANXIAOXIH/Armbian-Actions
+
 # msm8916-armbian
 MSM8916设备的Armbian镜像，支持UFI001B/C, UFI003等型号。
 
